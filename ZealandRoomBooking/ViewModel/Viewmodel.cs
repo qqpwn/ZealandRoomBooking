@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ZealandRoomBooking.ViewModel
 {
-   public class Viewmodel
+   public class ViewModel
     {
     }
 }

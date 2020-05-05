@@ -8,5 +8,6 @@ namespace ZealandRoomBooking.Model
 {
    public class Users
     {
+        //UserThings
     }
 }

@@ -10,7 +10,7 @@ namespace DBContext
 {
     public class ManageTid : IManageTid
     {
-        public const string DBaddress = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ZealandDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+        public const string DBaddress = "Server=tcp:zealand-room-booking.database.windows.net,1433;Initial Catalog = Zealand_Room_Booking; Persist Security Info=False;User ID = Zealand; Password=Roombooking1234; MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout = 30";
         public List<Tid> TidList = new List<Tid>();
 
         public List<Tid> GetAllTid()

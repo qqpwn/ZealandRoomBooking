@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZealandRoomBooking", "ZealandRoomBooking\ZealandRoomBooking.csproj", "{E2B38240-6F9E-45AE-9D08-B60737430C6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelKlasser", "ModelKlasser\ModelKlasser.csproj", "{4B5F7C93-2973-4F17-A17D-EB31DF33AF0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelKlasser", "ModelKlasser\ModelKlasser.csproj", "{4B5F7C93-2973-4F17-A17D-EB31DF33AF0C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBContext", "DBContext\DBContext.csproj", "{C30BEF4F-113E-4354-8D5F-80A586BB7CF9}"
 EndProject
